@@ -30,4 +30,4 @@ for (i in 1:length(symbols)) {
 }
 
 #Write a csv-file containing all the sharpe ratios
-write.csv(sharpe_ratios, "C:\\Users\\signe\\Documents\\Uni\\4. semester\\P4\\Kode\\sharpe_ratios.csv")
+write.csv(sharpe_ratios, "C:...sharpe_ratios.csv")
